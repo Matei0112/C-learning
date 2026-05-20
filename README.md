@@ -2,6 +2,7 @@ C++ Learning Repository
 A collection of C++ programs and projects built during my self-directed learning journey.
 
 About
+
 This repository documents my progress as I teach myself C++. My primary motivation for learning C++ is its application in robotics and systems programming, where its speed and efficiency make it the industry standard language.
 
 Why C++?
